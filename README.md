@@ -1,4 +1,4 @@
-# Publicly-available clinical corpora and annotated datasets
+# Publicly-available clinical datasets
 
 ## EHR records:
 [MIMIC-IV](https://www.nature.com/articles/s41597-022-01899-x) | [dataset](https://physionet.org/content/mimiciv/2.2/)
