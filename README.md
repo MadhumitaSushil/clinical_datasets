@@ -3,10 +3,13 @@
 ## EHR records:
 [MIMIC-IV](https://www.nature.com/articles/s41597-022-01899-x) | [dataset](https://physionet.org/content/mimiciv/2.2/)
   - Contains ICU-only EHR structured data, text, and images for nearly 300k patients
+
 [MIMIC-III](https://www.nature.com/articles/sdata201635) | [dataset](https://physionet.org/content/mimiciii/1.4/)
   - Contains ICU-only EHR structured data, text, and images for nearly 40k patients
+
 [MIMIC-III CareVue subset](https://physionet.org/content/mimic3-carevue/1.4/)
   - Contains subset of MIMIC-III patients not included in MIMIC-IV
+
 [eICU](https://www.nature.com/articles/sdata2018178) | [dataset](https://physionet.org/content/eicu-crd/2.0/)
   - ICU-only EHR structured data from across the US for 200k admissions
 
