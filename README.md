@@ -49,7 +49,7 @@ n2c2/i2b2 shared task datasets
   - Medical exam and Pubmed QA datasets
   - Combination of 7 datasets: MedMCQA, HEADQA, MedQA USMILE, MedQA Taiwan, Pubmed
 
-[Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions](https://arxiv.org/abs/2402.18060)
+[Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions](https://arxiv.org/abs/2402.18060) | [dataset](https://github.com/HanjieChen/ChallengeClinicalQA)
   - JAMA Clinical Challenge dataset containing questions based on challenging clinical cases
   - Medbullets comprising USMLE Step 2&3 style clinical questions
   - All are multiple-choice question-answering tasks
