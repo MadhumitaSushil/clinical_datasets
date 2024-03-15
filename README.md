@@ -13,6 +13,12 @@
 [eICU](https://www.nature.com/articles/sdata2018178) | [dataset](https://physionet.org/content/eicu-crd/2.0/)
   - ICU-only EHR structured data from across the US for 200k admissions
 
+[MOVER](https://mover.ics.uci.edu/index.html)
+  - Hospital visit data for surgery patients at UCI.
+  - Comprehensive EMR records and waveforms for each patient encounter
+  - Contains patient information, medical history, and specific surgical procedure information including: medicines used, lines or drains used, and post-operative complications
+  - 58,799 unique patients with data from 83,468 surgeries. Data spans over 4 years.
+
 ## Manually Annotated datasets:
 [CORAL](https://arxiv.org/abs/2308.03853) | [dataset](https://physionet.org/content/curated-oncology-reports/1.0/)
   - Expert-labeled: 20 breast cancer and 20 pancreatic cancer progress notes from UCSF, comprehensively annotated
