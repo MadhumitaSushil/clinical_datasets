@@ -21,8 +21,8 @@
 
 ## Manually Annotated datasets:
 [CORAL](https://arxiv.org/abs/2308.03853) | [dataset](https://physionet.org/content/curated-oncology-reports/1.0/)
-  - Expert-labeled: 20 breast cancer and 20 pancreatic cancer progress notes from UCSF, comprehensively annotated
-  - Unannotated: 100 breast cancer and 100 pancreatic cancer progress notes from UCSF, auto-labeled with GPT-4
+  - Expert-labeled: 20 breast cancer and 20 pancreatic cancer de-identified progress notes from UCSF, comprehensively annotated
+  - Unannotated: 100 breast cancer and 100 pancreatic cancer de-identified progress notes from UCSF, auto-labeled with GPT-4
   - Expert-labeled subset should only be used as a test-set 
 
 [RadQA: A Question Answering Dataset to Improve Comprehension of Radiology Reports](https://aclanthology.org/2022.lrec-1.672/) | [dataset](https://physionet.org/content/radqa/1.0.0/)
