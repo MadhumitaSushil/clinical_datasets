@@ -19,6 +19,12 @@
   - Contains patient information, medical history, and specific surgical procedure information including: medicines used, lines or drains used, and post-operative complications
   - 58,799 unique patients with data from 83,468 surgeries. Data spans over 4 years.
 
+[CARMEN-I](https://physionet.org/content/carmen-i/1.0/)
+  - COVID-19 patients with diverse comorbidities like kidney failure, cardiovascular diseases, malignancies, and immunosuppression
+  - 2,000 clinical records, encompassing discharge letters, referrals, and radiology reports from Hospital Clínic of Barcelona between March 2020 and March 2022
+  - Primarily in Spanish, some Catalan sections
+  - Expertly annotated for medical concepts by specialists, encompassing symptoms, diseases, procedures, medications, species, and humans (incl family members)
+
 ## Manually Annotated datasets:
 [CORAL](https://arxiv.org/abs/2308.03853) | [dataset](https://physionet.org/content/curated-oncology-reports/1.0/)
   - Expert-labeled: 20 breast cancer and 20 pancreatic cancer de-identified progress notes from UCSF, comprehensively annotated
