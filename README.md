@@ -67,6 +67,10 @@ n2c2/i2b2 shared task datasets
   - All are multiple-choice question-answering tasks
   - Each question is accompanied by an expert-written explanation
 
+[A Dataset for Pharmacovigilance in German, French, and Japanese: Annotating Adverse Drug Reactions across Languages](https://arxiv.org/abs/2403.18336) | [dataset](https://github.com/Dotkat-dotcome/KEEPHA-ADR)
+  - Multilingual corpus of texts concerning ADRs gathered from patient fora and social media in German, French, and Japanese
+  - 12 entity types, four attribute types, and 13 relation types
+
 [Exploring the Generalization of Cancer Clinical Trial Eligibility Classifiers Across Diseases](https://arxiv.org/abs/2403.17135) | dataset
   - 2,490 annotated eligibility criteria across seven exclusion types in the following groups: (1) additional phase 3 cancer trials, (2) phase 1 and 2 cancer trials, (3) heart disease trials, (4) type 2 diabetes trials, and (5) observational trials for any disease.
   - The paper also has several references to other clinical trial datasets.
